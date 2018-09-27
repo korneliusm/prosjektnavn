@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 sss
 example
 Snorre Vigen av Henrik Bibsen
+=======
+Du er stygg
+Do hete madiba
+>>>>>>> 797e69f2cfc51d558e843a0bcd30335c16c7d606
